@@ -1,6 +1,6 @@
 # Battery Manager
 
-![gitter](https://badges.gitter.im/gitterHQ/gitterHQ.github.io.svg)
+[![gitter](https://badges.gitter.im/gitterHQ/gitterHQ.github.io.svg)](https://gitter.im/Bytes_Club/General)
 
 Notify when the battery is fully charged.
 
