@@ -12,6 +12,12 @@ Originally present in [here](https://github.com/RudraNilBasu/python-scripts)
 
 This project requires [Python 2.7](https://www.python.org/download/releases/2.7/)
 
+Requires `python-gi`
+
+```
+sudo apt-get install --reinstall python-gi
+```
+
 To run `Battery_Manager`, run: 
 
 ```
